@@ -1,4 +1,2 @@
 label username
-label password
-xin chào thầy ơi
-em mệt quá
+Ngoafi kia com nuoc gi chua nguoi dep
